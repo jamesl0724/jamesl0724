@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=jamesl0724&label=PROFILE+VIEWS" alt="Profile Views" align="right">
-<h2 align="center"> Do the right thing for right part. </h2>
+<h2 align="center"> Do the right thing for the right part. </h2>
 
 ### Hi there 👋
 
