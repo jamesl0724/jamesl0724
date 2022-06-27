@@ -33,4 +33,3 @@
 - 👯 I’m looking for a new position.
 - 📫 How to reach me: jamesdream0724@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Playing golf
