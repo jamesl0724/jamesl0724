@@ -1,6 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=jamesl0724&label=PROFILE+VIEWS" alt="Profile Views" align="right">
-<h2 align="center"> </h2>
-### Hi there 👋
+<h2 align="center"> Do the right thing for right part. </h2>
+
+Hi there 👋
 
 <!--
 **jamesl0724/jamesl0724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
