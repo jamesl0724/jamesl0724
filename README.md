@@ -5,5 +5,4 @@
 
 - 🔭 I’m currently working on building dapps and daos.
 - 🌱 I’m currently learning crypto trading.
-- 📫 How to reach me: jamesdream0724@gmail.com
 - 😄 Pronouns: He/Him/His
